@@ -59,7 +59,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://batoorsohail.github.io/awesome-books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Zeph180/Awesome-books.git
+  git clone https://github.com/batoorsohail/awesome-books-ES6.git
 ```
 -
 
@@ -119,13 +119,6 @@ You can deploy this project using:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-
-👤 **Kigozi Joseph**
-
-- GitHub: [@Zeph180](https://github.com/zeph180)
-- Twitter: [@richardszeph](https://twitter.com/richardszeph)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kigozijosephsuubi)
 
 👤 **Batoor Sohail**
 
