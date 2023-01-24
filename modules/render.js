@@ -1,12 +1,4 @@
-/* eslint-disable */
-import {
-  books, bookData, addBook, removeBook,
-} from './storage.js';
-import Books from './bookClass.js';
-
-const bookDisplay = document.querySelector('#book-section');
-export const render = () => {
-  const books = JSON.parse(localStorage.getItem('books')) || [];
+const render = (bookDisplay, books, removeBook) => {
   bookDisplay.innerHTML = '';
   books.forEach((book, index) => {
     const div = document.createElement('div');
@@ -25,4 +17,4 @@ export const render = () => {
   });
 };
 
-render();
+export default render;
