@@ -29,6 +29,8 @@
 
 **Awesome books** is a a small project to help master basic javascript concepts eg classes objects, arrays and dom manipulation
 
+<img src="Awesome Books.JPG"></img>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
